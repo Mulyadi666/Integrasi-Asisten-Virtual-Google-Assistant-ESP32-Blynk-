@@ -41,7 +41,7 @@ Berikut skema yang digunakan:
 
 ## 🔗 Simulasi Wokwi
 
-👉 [Klik untuk membuka simulasi](https://wokwi.com/projects/435069178127605761?gh=1)
+👉 [Klik untuk membuka simulasi](https://wokwi.com/projects/435366827450841089)
 
 ---
 
